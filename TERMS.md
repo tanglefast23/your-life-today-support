@@ -12,15 +12,17 @@ You may use the app for personal, non-commercial purposes. You are responsible f
 
 Your Life Today offers optional Premium subscriptions:
 
-- **Premium Monthly:** $4.99/month
-- **Premium Annual:** $39.99/year
-- **Premium Lifetime:** $99.99 one-time purchase
+- **Premium Monthly:** $1.99/month (USD)
+- **Premium Annual:** $14.99/year (USD) — save 37%
+- **Premium Lifetime:** $29.99 one-time purchase (USD)
 
 Payment is charged to your Apple ID account at confirmation of purchase. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period. You can manage and cancel subscriptions in your Apple ID account settings.
 
 ## Free Trial
 
-New users receive a 14-day free trial of Premium features. After the trial, free users retain access to core features with some limitations.
+New subscribers receive a 7-day free trial before being charged. After the trial period, your subscription will automatically renew at the regular price unless canceled at least 24 hours before the trial ends. You can cancel at any time in your Apple ID account settings.
+
+New users also receive an initial 14-day reverse trial of Premium features upon first launching the app. After this introductory period, free users retain access to core features with some limitations.
 
 ## User Content
 
